@@ -20,7 +20,7 @@ Our changes:
 Add a file `<project-root>/subprojects/mpark_variant.wrap`, with these contents:
 ```
 [wrap-git]
-url = https://github.com/mpark/variant.git
+url = https://github.com/Sebastiaan-Alvarez-Rodriguez/variant
 revision = v1.4.0
 ```
 
