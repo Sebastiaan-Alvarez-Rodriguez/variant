@@ -60,6 +60,11 @@ libmylib = shared_library(
 
 This library requires a standard conformant __C++11__ compiler.
 
+
+## Credits
+All credits for creating mpark variant to mpark.
+We made some adjustments to better fit our build- and workflow and share it with the public.
+
 ## License
 
 Changes distributed under the [Apache v2 License](LICENSE),
