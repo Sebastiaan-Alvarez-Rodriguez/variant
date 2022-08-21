@@ -34,7 +34,7 @@ mpark_variant = subproject('mpark_variant')
 You can add `mpark/variant` as a submodule to your project.
 
 ```bash
-git submodule add https://github.com/mpark/variant.git subprojects/mpark_variant_vendored
+git submodule add https://github.com/Sebastiaan-Alvarez-Rodriguez/variant.git subprojects/mpark_variant_vendored
 ```
 
 In your `<project-root>/meson.build`, add:
